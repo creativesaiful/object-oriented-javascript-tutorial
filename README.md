@@ -1,1 +1,1 @@
-# object-oriented-javascript-tutorial
+# object-oriented-javascript-tutorial by SM Namye Vai
